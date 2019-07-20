@@ -8,6 +8,8 @@ The first line of input contains size of array, which is denoted by N and second
 Output Format:
 The first and only line of output should print the maximum subarray sum, as described in the description.
 */
+#code in python 3
+
 def max(n,m):
     return n if n>m else m
 
